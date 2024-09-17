@@ -1,0 +1,20 @@
+#board {
+  height: 400px;
+  width: 200px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid;
+}
+th,
+td {
+  border: 1px solid;
+  height: calc(20px - 1.6px);
+  width: 20px;
+  padding: 0;
+  margin: 0;
+}
+table {
+  border: 1px solid;
+  margin: 0;
+  padding: 0;
+}
